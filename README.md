@@ -1,9 +1,9 @@
 # Hi 👋 I'm Gokul Saravanakkumar R
 
 🎓 Pre-Final Year B.Tech Information Technology Student  
-🏫 Mepco Schlenk Engineering College,Sivakasi 
-💡 Passionate about AI Systems, LLMs & Full Stack Development  
-🚀 Building intelligent developer tools & real-world applications  
+🏫 Mepco Schlenk Engineering College,Sivakasi  
+🚀 Building intelligent developer tools & real-world applications 
+💡 Passionate about AI Systems, LLMs & Full Stack Development 
 📍 Paramakudi,Tamil Nadu, India  
 
 ---
