@@ -60,13 +60,6 @@ Classic Space Invaders game developed using Python with object-oriented programm
 
 ---
 
-## 📊 GitHub Stats
-
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulsaravanakkumar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaravanakkumar&layout=compact&theme=tokyonight)
-
----
 
 ## 📚 Currently Learning
 
