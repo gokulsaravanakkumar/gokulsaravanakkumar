@@ -1,10 +1,10 @@
 # Hi 👋 I'm Gokul Saravanakkumar R
 
-🎓 3rd Year B.Tech Information Technology Student  
-🏫 Mepco Schlenk Engineering College  
+🎓 Pre-Final Year B.Tech Information Technology Student  
+🏫 Mepco Schlenk Engineering College,Sivakasi 
 💡 Passionate about AI Systems, LLMs & Full Stack Development  
 🚀 Building intelligent developer tools & real-world applications  
-📍 Tamil Nadu, India  
+📍 Paramakudi,Tamil Nadu, India  
 
 ---
 
@@ -13,8 +13,9 @@
 - 🔭 Currently working on AI-powered developer tools
 - 🤖 Exploring Agentic AI, RAG, and Local LLMs (Ollama)
 - 💻 Building Full Stack applications using Spring Boot & React
-- 📱 Developed Android SMS-based applications
+- 📱 Developed web based chat application
 - 🧠 Strong interest in System Design & Backend Architecture
+- 🧑‍💻 Highly interested on networking and cybersecurity
 
 ---
 
@@ -27,7 +28,7 @@ Python | Java | JavaScript | C | SQL
 Spring Boot | React | Node.js | Git | Docker | Ollama | LangChain  
 
 ### 🗄 Databases
-MySQL | PostgreSQL  
+MySQL | PostgreSQL |MongoDB  
 
 ---
 
@@ -60,7 +61,9 @@ Tech Stack: Python, Graphviz
 - Agentic AI Architectures  
 - Retrieval-Augmented Generation (RAG)  
 - Advanced Backend System Design  
-- LLM Fine-Tuning  
+- LLM Fine-Tuning
+- Cybersecurity
+- Ethical Hacking 
 
 ---
 
