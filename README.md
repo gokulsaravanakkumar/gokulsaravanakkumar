@@ -40,15 +40,19 @@ MySQL | MongoDB
 ## 🚀 Featured Projects
 
 🦠 Malware Propagation Prediction
+
 Developed a predictive framework for modeling malware propagation in double-layer computer networks, enabling accurate forecasting and optimized defense strategies. Tech Stack: Python, Network Analysis, Machine Learning 
 
 🏪 Store Smart Manager
+
 Efficient inventory management system for RVM Fruits and Vegetables shop that helps monitor, organize, and manage orders while reducing manual errors, maintaining accurate stock records, and optimizing inventory levels. Tech Stack: Java, Full Stack Development 
 
 ⚡ Performance Booster
+
 User-friendly Java application that automates the process of identifying and removing unused files from a specified directory. Helps users manage disk space effectively by detecting files that have not been accessed or modified within a given timeframe. Tech Stack: Java, File Management 
 
 🎮 Space Invaders
+
 Classic Space Invaders game developed using Python with object-oriented programming to manage game elements and logic. Exhibited at ΜΕΡEXPO'24, showcasing strong foundational skills in game development and problem-solving. Tech Stack: Python, Game Development, OOP
 
 ---
