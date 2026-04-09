@@ -32,7 +32,7 @@ Python | Java | JavaScript | C | SQL
 Spring Boot | React | Node.js | Git | Docker | Ollama | LangChain  
 
 ### 🗄 Databases
-MySQL | PostgreSQL |MongoDB  
+MySQL | MongoDB  
 
 ---
 
