@@ -3,6 +3,7 @@
 🎓 Pre-Final Year B.Tech Information Technology Student  
 🏫 Mepco Schlenk Engineering College,Sivakasi  
 🚀 Building intelligent developer tools & real-world applications 
+
 💡 Passionate about AI Systems, LLMs & Full Stack Development 
 
 📍 Paramakudi,Tamil Nadu, India  
