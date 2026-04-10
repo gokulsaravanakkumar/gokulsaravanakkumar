@@ -31,8 +31,7 @@ Python | Java | JavaScript | C | SQL
 ### ⚙️ Frameworks & Tools
 Spring Boot | React | Node.js | Git | Docker | Ollama | LangChain  
 
-### 🗄 Databases
-MySQL | PostgreSQL |MongoDB  
+### 🗄 Databases 
 MySQL | MongoDB  
 
 ---
@@ -75,6 +74,7 @@ Classic Space Invaders game developed using Python with object-oriented programm
 ## 🌐 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/gokul-saravanakkumar-r-6a6964291
+
 📧 Email: gokulsaravanakkumar@gmail.com 
 
 ---
