@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gokul Saravanakkumar R
 
-🎓 Pre-Final Year B.Tech Information Technology Student  
+🎓 Final Year B.Tech Information Technology Student  
 
 🏫 Mepco Schlenk Engineering College,Sivakasi  
 
