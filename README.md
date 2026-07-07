@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Gokul Saravanakkumar R 👋</h1>
-
 <h3 align="center">🎓 Final Year B.Tech IT Student | 🚀 Building Intelligent Systems That Think, Automate & Scale</h3>
-
 <p align="center">
 🏫 Mepco Schlenk Engineering College, Sivakasi &nbsp;|&nbsp; 📍 Paramakudi, Tamil Nadu, India
 </p>
@@ -9,7 +7,6 @@
 ---
 
 ### 🚀 About Me
-
 - 🔭 Currently building **AI-powered developer tools**
 - 🤖 Exploring **Agentic AI**, **RAG**, and **Local LLMs** with Ollama
 - 💻 Crafting full stack applications with **Spring Boot** & **React**
@@ -32,6 +29,8 @@
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -40,6 +39,10 @@
 ---
 
 ### 🌟 Featured Projects
+
+⛏️ **[Illicit Mine Watch — CTMNet](#)**  
+An AI-powered surveillance system that detects unauthorized open-pit mining from bi-temporal satellite imagery. Built **CTMNet**, a novel CNN-Transformer multitask network that performs mine extraction and change detection simultaneously — achieving **96.03% F1-score** on extraction and **89.92% F1-score** on change detection, while running inference in just **9.34ms** per image pair. Deployed as a full-stack web app with role-based dashboards for Field Rangers and Chief Inspectors, automated forensic PDF reporting, and real-time anomaly heatmaps.  
+`PyTorch` `FastAPI` `React` `Computer Vision` `Deep Learning` `Remote Sensing`
 
 🦠 **[Malware Propagation Prediction](#)**  
 Predictive framework modeling malware spread across double-layer computer networks — enabling accurate forecasting and optimized defense strategies.  
@@ -60,14 +63,11 @@ Classic arcade game built with Python & OOP principles — exhibited at MEPEXPO'
 ---
 
 ### 📚 Currently Learning
-
 `Agentic AI Architectures` `Retrieval-Augmented Generation (RAG)` `Advanced Backend System Design` `LLM Fine-Tuning` `Cybersecurity` `Ethical Hacking`
 
 ---
 
-
 ### 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-saravanakkumar-r-6a6964291)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gokulsaravanakkumar@gmail.com)
 
